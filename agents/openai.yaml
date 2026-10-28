@@ -1,0 +1,12 @@
+interface:
+  display_name: note amazon affiliate writer
+  short_description: note向けAmazonアソシエイト収益化記事を制作する。商品名＋購入前の迷いを重視し、キーワード選定、SERP調査、商品比較、購入判断の設計、SEO記事執筆、Amazon導線、品質監査、ファクトチェック、公開前確認まで行う。「note記事を書いて」「Amazonアソシエイト記事」「商品比較記事」「新旧モデルの違い」「購入前の疑問」「記事構成だけ」「30記事の検証計画」などで使用する。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
