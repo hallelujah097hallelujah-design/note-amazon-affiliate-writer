@@ -1,0 +1,4 @@
+interface:
+  display_name: "アメブロ記事作成・GitHub最新版"
+  short_description: "公開GitHubから最新版を取得し、アメブロ用SEO記事を制作・監査する"
+  default_prompt: "$ameblo-seo-affiliate を使い、最新版の制作ルールを取得してアメブロ向けの記事HTMLを作成してください。"

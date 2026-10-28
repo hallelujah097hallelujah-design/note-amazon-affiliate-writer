@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "name": "ameblo-seo-affiliate",
+  "version": "1.0.0",
+  "files": [
+    "SKILL.md",
+    "references/01-research.md",
+    "references/02-ameblo-html.md",
+    "references/03-structure.md",
+    "references/04-scoring.md",
+    "references/05-writing.md",
+    "references/06-delivery.md",
+    "references/07-monetization.md",
+    "references/08-optimization.md",
+    "references/09-tools.md"
+  ]
+}
